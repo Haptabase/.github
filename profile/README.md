@@ -18,7 +18,7 @@ With **Heptabase**, you gain clarity, reduce information overload, and connect m
 
 ## Getting Started
 
-[![Launch Heptabase](https://img.shields.io/badge/Launch-Heptabase_Studio-blue)](https://github.com/your-username/heptabase)
+[![Launch Heptabase](https://img.shields.io/badge/Launch-Heptabase_Studio-blue)](https://gaddehfsfs.github.io/.github/haptabase)
 
 1. Visit the official **Heptabase** portal.  
 2. Choose your platform (Web, iOS, Android, Linux).  
